@@ -13,21 +13,7 @@
 **MENTOR NAME**: NEELA SANTOSH
 
 # OUTPUT OF THE TASK
-# Example usage: Monitor a directory for file changes
-if __name__ == "__main__":
-    directory_to_monitor = "./test_directory"  # Replace with the directory you want to monitor
-    monitor_directory(directory_to_monitor)
-#OUTPUT
-Monitoring directory: ./test_directory
-
-Checking for changes...
-No changes detected.
-
-Checking for changes...
-File modified: ./test_directory/example.txt
-
-Checking for changes...
-No changes detected.
+![Image](https://github.com/user-attachments/assets/a0245304-1143-4d28-b88d-91a498ad0d92)
 
 
 
